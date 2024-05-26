@@ -647,7 +647,7 @@ footer .footer_t .footer_btn:hover {
         transform: translateY(-100%);
         transition: 0.3s;
     }
-    .main_menu .menu {
+    .header_area .main_menu .menu {
         margin-bottom: 20px;
         margin-right: 0;
     }
